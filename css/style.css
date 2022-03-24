@@ -27,7 +27,8 @@ body {
 
 @import url('https://fonts.googleapis.com/css?family=Cairo');
 body {
-	background-color: black;
+	/*background-color: black;*/
+  background-image: url(https://c.tenor.com/J63JWqFKgwQAAAAC/edwardtwilight.gif);
 }
 
 .title {
@@ -45,19 +46,26 @@ body {
 /*background-image: url(https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif);*/
 /*background-image: url(https://c.tenor.com/J63JWqFKgwQAAAAC/edward-twilight.gif);*/
 /*https://i.gifer.com/P1I.gif*/
+/*https://media0.giphy.com/media/UWhFj5QHg88CDmavkm/giphy-downsized-large.gif*/
+/*
+
+
+
+*/
 
 h1 {
-	
-  background-image: url(https://c.tenor.com/J63JWqFKgwQAAAAC/edward-twilight.gif);
-
-
+  animation-delay: 2s;
+  background-image: url(https://64.media.tumblr.com/193259083ce7d5c122a8fc721896728d/45f0993bd84cffb8-f1/s540x810/ae6256282887120185d8e358d6c6365df397c893.gif);
 	background-size: cover;
 	color: transparent;
 	-moz-background-clip: text;
 	-webkit-background-clip: text;
 	text-transform: uppercase;
-	font-size: 250px;
+	font-size: 110px;
 	margin: 10px 0;
+
+
+  
 }
 
 
